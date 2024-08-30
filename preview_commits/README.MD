@@ -5,3 +5,6 @@
 * Instalando react-native-slider
 `npm install @react-native-community/slider --save`
 ![alt text](image-1.png)
+
+* Parte Visual:
+![alt text](image-2.png)
